@@ -454,6 +454,14 @@ header nav .nav-icons ul{
 
 
 @media only screen and (max-width: 1195px) {
+
+    .image-banner{
+        height: 150px;
+    }
+    .ourstory-container h1{
+        font-size: 40px;
+        display: block;
+    }
     .about-ceo-div{
         height: auto;
         width: 90%;
